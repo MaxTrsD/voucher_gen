@@ -7,7 +7,7 @@ class voucher_home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('', style: TextStyle(color: Colors.white)),
+        title: Text('teste', style: TextStyle(color: Colors.white)),
         centerTitle: true,
         backgroundColor: Colors.red[400],
         elevation: 10.5,
